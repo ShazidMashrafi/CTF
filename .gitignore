@@ -9,6 +9,7 @@
 
 # Don't ignore .gitignore itself
 !.gitignore
+!Readme.md
 
 # If you have specific files to ignore within Writeups, add them here
 # For example:
