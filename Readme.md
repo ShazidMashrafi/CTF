@@ -16,6 +16,6 @@ As a computer science student, understanding security vulnerabilities helps me p
 - Think from an attacker's perspective
 
 ## This Repository
-This collection contains writeups for web exploitation challenges I've solved. Each writeup documents my approach, the vulnerabilities involved, and lessons learned.
+This collection contains writeups for Capture the flag challenges I've solved. Each writeup documents my approach, the vulnerabilities involved, and lessons learned.
 
 I focus primarily on web exploitation because it directly relates to my interests in web development and application security.
